@@ -318,3 +318,17 @@ z-index: -1;
         padding: 9em 8em 6em 20em;
     }
 }
+
+.circle {
+    animation: circleAnim 1s infinite alternate-reverse;
+}
+
+@keyframes circleAnim {
+    from {
+        transform: translate(236px, 648px);
+        z-index: 5;
+    }
+    to {
+        transform: translate(236px, 695px);
+    }
+}
