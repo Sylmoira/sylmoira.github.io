@@ -1,0 +1,12 @@
+<svg width="670" height="672" viewBox="0 0 670 672">
+  <g id="Group_2" data-name="Group 2" transform="translate(-914 -234)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="168" height="168" rx="20" transform="translate(1250 234)" fill="#6700ee"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="168" height="168" rx="20" transform="translate(1250 570)" fill="#6700ee"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="168" height="168" rx="20" transform="translate(1416 402)" fill="#6700ee" opacity="0.24"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="168" height="168" rx="20" transform="translate(1082 402)" fill="#fff"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="168" height="168" rx="20" transform="translate(1082 738)" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M20,0H148a20,20,0,0,1,20,20V148a20,20,0,0,1-20,20H20A20,20,0,0,1,0,148V20A20,20,0,0,1,20,0Z" transform="translate(914 570)" fill="#fff" opacity="0.24"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="84" cy="84" r="84" transform="translate(1250 402)" fill="#ff64cb"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="84" cy="84" r="84" transform="translate(1082 570)" fill="aqua"/>
+  </g>
+</svg>
